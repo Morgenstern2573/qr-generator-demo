@@ -1,0 +1,21 @@
+{
+  "name": "qr-generator-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
+    "html-to-image": "^1.11.11",
+    "qrcode": "^1.5.3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.0"
+  }
+}
