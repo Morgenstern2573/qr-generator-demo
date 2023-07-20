@@ -67,7 +67,7 @@ const handleLogoUpload = ($event) => {
         class="user-input-field"
         placeholder="Enter your text here"
         v-model="userInput"
-      />
+      ></textarea>
     </div>
 
     <div class="right">
